@@ -20,6 +20,7 @@ Senior backend / product engineer · ex-CTO · building shipped AI and Web3 prod
 Highlights with public source:
 
 - **[Polymarket Copy-Trade](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/polymarket-copy-trade.md)** — TypeScript + Rust polyglot. Sub-second WSS trade detection, 21-step filter chain, on-chain Polygon fallback. [Source →](https://github.com/mantotan/polymarket-copy-trade)
+- **[Quant-Modelling](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/quant-modelling.md)** — Quant ML pipeline trading crypto-binary prediction markets on Polymarket. Twin LightGBM models, walk-forward CPCV + isotonic calibration, fractional-Kelly risk, 13-agent autonomous research loop (150+ HPO iterations to structural-floor exhaustion). [Source →](https://github.com/mantotan/quant-modelling)
 - **[TikTok Live Scraper](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/tiktok-live-scraper.md)** — WebSocket reliability under proxy churn. Zombie-connection detection, bandwidth-aware pre-checks, hybrid cloud + residential-proxy connection pool. [Source →](https://github.com/mantotan/tiktok-live-scraper)
 
 ### Stack
