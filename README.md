@@ -37,3 +37,5 @@ Working languages: English · Bahasa Indonesia · 中文.
 - ✉️ [manto.tan@gmail.com](mailto:manto.tan@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hermanto-tan-816864111)
 - 🌐 [hatolabs.com](https://hatolabs.com)
+
+<!-- updated 2026-05-18T10:30Z -->
