@@ -10,7 +10,7 @@ Senior backend / product engineer · ex-CTO · building shipped AI and Web3 prod
 
 - **[Bazi Fortune](https://bazifortune.app)** — AI Bazi / Four Pillars astrology app. React Native + Next.js + NestJS. Live with paying users. [Case study →](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/bazi-fortune.md)
 - **[Study Genius AI](https://study-genius-ai.hatolabs.com)** — Turn PDFs and images into AI-generated flashcards and quizzes with spaced repetition. React Native + Next.js + NestJS. [Case study →](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/study-genius-ai.md)
-- **[Community Swarm](https://communityswarm.com)** — AI community moderation SaaS for Web3 Discord/Telegram. Five-service polyglot platform (NestJS + Python AI services + Next.js dashboard/landing + Nextra docs) built solo end-to-end. [Case study →](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/community-swarm.md)
+- **[Community Swarm](https://communityswarm.com)** — AI community moderation SaaS for Web3 Discord and Telegram. Per-project knowledge bases drive on-brand bot responses. NestJS + Python AI services + Next.js. Prod-deployed; commercial launch paused. [Case study →](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/community-swarm.md)
 
 ### Selected work
 
@@ -40,4 +40,4 @@ Working languages: English · Bahasa Indonesia · 中文.
 - 💼 [LinkedIn](https://www.linkedin.com/in/hermanto-tan-816864111)
 - 🌐 [hatolabs.com](https://hatolabs.com)
 
-<!-- updated 2026-05-19T00:00Z -->
+<!-- updated 2026-05-19T01:00Z -->
