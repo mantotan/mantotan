@@ -8,8 +8,19 @@ Senior backend / product engineer · ex-CTO · building shipped AI and Web3 prod
 
 ### Currently shipping
 
-- **[Bazi Fortune](https://bazifortune.app)** — AI Bazi / Four Pillars astrology app. React Native + Next.js + NestJS. Live with paying users.
-- **[Study Genius AI](https://study-genius-ai.hatolabs.com)** — Turn PDFs and images into AI-generated flashcards and quizzes with spaced repetition. React Native + Next.js + NestJS.
+- **[Bazi Fortune](https://bazifortune.app)** — AI Bazi / Four Pillars astrology app. React Native + Next.js + NestJS. Live with paying users. [Case study →](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/bazi-fortune.md)
+- **[Study Genius AI](https://study-genius-ai.hatolabs.com)** — Turn PDFs and images into AI-generated flashcards and quizzes with spaced repetition. React Native + Next.js + NestJS. [Case study →](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/study-genius-ai.md)
+
+### Selected work
+
+11 long-form case studies covering AI products, Web3 backends, real-time data pipelines, NFT marketplaces, and trading infrastructure — each with the original problem, architecture choices, trade-offs, and what I'd do differently. Most production code is private under client and employer agreements; the cases focus on engineering depth without exposing proprietary code.
+
+**Full portfolio →** [mantotan/portfolio-case-studies](https://github.com/mantotan/portfolio-case-studies)
+
+Highlights with public source:
+
+- **[Polymarket Copy-Trade](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/polymarket-copy-trade.md)** — TypeScript + Rust polyglot. Sub-second WSS trade detection, 21-step filter chain, on-chain Polygon fallback. [Source →](https://github.com/mantotan/polymarket-copy-trade)
+- **[TikTok Live Scraper](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/tiktok-live-scraper.md)** — WebSocket reliability under proxy churn. Zombie-connection detection, bandwidth-aware pre-checks, hybrid cloud + residential-proxy connection pool. [Source →](https://github.com/mantotan/tiktok-live-scraper)
 
 ### Stack
 
