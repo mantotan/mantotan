@@ -23,6 +23,7 @@ Highlights with public source:
 - **[Polymarket Copy-Trade](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/polymarket-copy-trade.md)** — TypeScript + Rust polyglot. Sub-second WSS trade detection, 21-step filter chain, on-chain Polygon fallback. [Source →](https://github.com/mantotan/polymarket-copy-trade)
 - **[Quant-Modelling](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/quant-modelling.md)** — Quant ML pipeline trading crypto-binary prediction markets on Polymarket. Twin LightGBM models, walk-forward CPCV + isotonic calibration, fractional-Kelly risk, 13-agent autonomous research loop (150+ HPO iterations to structural-floor exhaustion). [Source →](https://github.com/mantotan/quant-modelling)
 - **[TikTok Live Scraper](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/tiktok-live-scraper.md)** — WebSocket reliability under proxy churn. Zombie-connection detection, bandwidth-aware pre-checks, hybrid cloud + residential-proxy connection pool. [Source →](https://github.com/mantotan/tiktok-live-scraper)
+- **[Crypto Watcher (trading-bot API + dashboard)](https://github.com/mantotan/portfolio-case-studies/blob/main/case-studies/crypto-watcher.md)** — NestJS + PostgreSQL backend with auth refactored into 8 focused services, AES-256-GCM encryption, Redis Pub/Sub-backed WebSocket Gateway for backtest progress, hedging constraints enforced at the DB layer. Next.js 15 dashboard with JWT auto-refresh + middleware-protected routes. [Backend →](https://github.com/mantotan/crypto-watcher-bot-backend) · [Frontend →](https://github.com/mantotan/crypto-watcher-bot-frontend)
 
 ### Stack
 
@@ -40,4 +41,4 @@ Working languages: English · Bahasa Indonesia · 中文.
 - 💼 [LinkedIn](https://www.linkedin.com/in/hermanto-tan-816864111)
 - 🌐 [hatolabs.com](https://hatolabs.com)
 
-<!-- updated 2026-05-19T01:00Z -->
+<!-- updated 2026-05-19T01:20Z -->
